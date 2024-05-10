@@ -1,0 +1,1 @@
+webpack to bundle the assets and manage the dependencies
